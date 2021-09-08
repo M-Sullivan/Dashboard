@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"node_modules": true,
+			".gitignore":true,
+			"LICENSE":true,
+			"README.md":true,
+			"package-lock.json":true,
+			"dashboard.code-workspace":true,
+			"src/react-app-env.d.ts":true
+		}
+	}
+}
