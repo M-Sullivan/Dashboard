@@ -13,6 +13,7 @@
 			"package-lock.json":true,
 			"dashboard.code-workspace":true,
 			"src/react-app-env.d.ts":true
-		}
+		},
+		"editor.tabSize": 2
 	}
 }
